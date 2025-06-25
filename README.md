@@ -1,3 +1,7 @@
+![PowerShell](https://img.shields.io/badge/PowerShell-5.1-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+
+
 # FolderWatcher
 A lightweight PowerShell folder monitoring script that logs file activity in real time.
 ---
