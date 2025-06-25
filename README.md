@@ -1,5 +1,5 @@
-# powershell-tools
-A collection of PowerShell scripts for cloud automation, networking, and diagnostics
+# FolderWatcher
+A lightweight PowerShell folder monitoring script that logs file activity in real time.
 ---
 
 ## 📁 FolderWatcher.ps1
