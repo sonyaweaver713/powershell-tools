@@ -1,5 +1,9 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-5.1-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Last Commit](https://img.shields.io/github/last-commit/sonyaweaver713/FolderWatcher)
+![GitHub Repo stars](https://img.shields.io/github/stars/sonyaweaver713/FolderWatcher?style=social)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Built By](https://img.shields.io/badge/built%20by-Sonya%20Weaver-purple)
 
 
 # FolderWatcher
